@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97e390ec-80fe-42ee-aa75-73548a5dc21e" name="Default Changelist" comment="" />
+    <list default="true" id="97e390ec-80fe-42ee-aa75-73548a5dc21e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first.py" beforeDir="false" afterPath="$PROJECT_DIR$/first.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news.txt" beforeDir="false" afterPath="$PROJECT_DIR$/news.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testPy.py" beforeDir="false" afterPath="$PROJECT_DIR$/testPy.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/XLTN_project1" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="24cebd84-1f96-4d6a-a0b1-1514f89a90a7">
     <option name="files">
@@ -40,7 +47,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -77,9 +84,6 @@
       <module name="project_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -150,22 +154,27 @@
       <workItem from="1584177102894" duration="3265000" />
       <workItem from="1584187836258" duration="5695000" />
       <workItem from="1584239559809" duration="75000" />
-      <workItem from="1584239645491" duration="612000" />
+      <workItem from="1584239645491" duration="3466000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/XLTN_project1" />
+    </ignored-roots>
+  </component>
   <component name="WindowStateProjectService">
     <state x="410" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584133757309">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
     <state x="410" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1030@0.0.1920.1030" timestamp="1584133757309" />
-    <state x="665" y="305" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584189993608">
+    <state x="665" y="305" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584247189748">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state x="665" y="305" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1030@0.0.1920.1030" timestamp="1584189993608" />
+    <state x="665" y="305" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1030@0.0.1920.1030" timestamp="1584247189748" />
     <state x="686" y="213" key="FileChooserDialogImpl" timestamp="1583864989512">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
@@ -202,11 +211,11 @@
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
     <state width="902" height="324" key="GridCell.Tab.1.right/0.0.1920.1030@0.0.1920.1030" timestamp="1584188928442" />
-    <state x="557" y="74" key="SettingsEditor" timestamp="1583865891631">
+    <state x="557" y="74" key="SettingsEditor" timestamp="1584240760275">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
     <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583775678203" />
-    <state x="557" y="74" key="SettingsEditor/0.0.1920.1030@0.0.1920.1030" timestamp="1583865891631" />
+    <state x="557" y="74" key="SettingsEditor/0.0.1920.1030@0.0.1920.1030" timestamp="1584240760275" />
     <state x="588" y="295" key="com.intellij.ide.util.TipDialog" timestamp="1584187841018">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
