@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97e390ec-80fe-42ee-aa75-73548a5dc21e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/XLTN_project1" />
+  </component>
+  <component name="JupyterTrust" id="24cebd84-1f96-4d6a-a0b1-1514f89a90a7">
+    <option name="files">
+      <option value="noteBook.ipynb" />
+    </option>
+  </component>
+  <component name="ProjectId" id="1YtvVpJ2kYiRc2FaTCyjxUP85UU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="project_1" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="project_1" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.testPy">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="project_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="first" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testPy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testPy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.testPy" />
+        <item itemvalue="Python.first" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97e390ec-80fe-42ee-aa75-73548a5dc21e" name="Default Changelist" comment="" />
+      <created>1583774731683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583774731683</updated>
+      <workItem from="1583774743854" duration="930000" />
+      <workItem from="1583775911247" duration="207000" />
+      <workItem from="1583776128151" duration="370000" />
+      <workItem from="1583776631188" duration="364000" />
+      <workItem from="1583777007390" duration="221000" />
+      <workItem from="1583777245803" duration="2767000" />
+      <workItem from="1583787429808" duration="1144000" />
+      <workItem from="1583864916480" duration="948000" />
+      <workItem from="1583865879484" duration="16000" />
+      <workItem from="1583865905897" duration="201000" />
+      <workItem from="1583945249928" duration="2842000" />
+      <workItem from="1583994939546" duration="1293000" />
+      <workItem from="1584002342262" duration="852000" />
+      <workItem from="1584003210563" duration="9370000" />
+      <workItem from="1584100753334" duration="3013000" />
+      <workItem from="1584133183404" duration="9054000" />
+      <workItem from="1584177102894" duration="3265000" />
+      <workItem from="1584187836258" duration="5695000" />
+      <workItem from="1584239559809" duration="75000" />
+      <workItem from="1584239645491" duration="612000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="410" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584133757309">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="410" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1030@0.0.1920.1030" timestamp="1584133757309" />
+    <state x="665" y="305" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584189993608">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="665" y="305" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1030@0.0.1920.1030" timestamp="1584189993608" />
+    <state x="686" y="213" key="FileChooserDialogImpl" timestamp="1583864989512">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="686" y="213" key="FileChooserDialogImpl/0.0.1920.1030@0.0.1920.1030" timestamp="1583864989512" />
+    <state width="902" height="324" key="GridCell.Tab.0.bottom" timestamp="1584188928442">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="902" height="324" key="GridCell.Tab.0.bottom/0.0.1920.1030@0.0.1920.1030" timestamp="1584188928442" />
+    <state width="902" height="324" key="GridCell.Tab.0.center" timestamp="1584188928442">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="902" height="324" key="GridCell.Tab.0.center/0.0.1920.1030@0.0.1920.1030" timestamp="1584188928442" />
+    <state width="902" height="324" key="GridCell.Tab.0.left" timestamp="1584188928442">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="902" height="324" key="GridCell.Tab.0.left/0.0.1920.1030@0.0.1920.1030" timestamp="1584188928442" />
+    <state width="902" height="324" key="GridCell.Tab.0.right" timestamp="1584188928442">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="902" height="324" key="GridCell.Tab.0.right/0.0.1920.1030@0.0.1920.1030" timestamp="1584188928442" />
+    <state width="902" height="324" key="GridCell.Tab.1.bottom" timestamp="1584188928442">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="902" height="324" key="GridCell.Tab.1.bottom/0.0.1920.1030@0.0.1920.1030" timestamp="1584188928442" />
+    <state width="902" height="324" key="GridCell.Tab.1.center" timestamp="1584188928442">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="902" height="324" key="GridCell.Tab.1.center/0.0.1920.1030@0.0.1920.1030" timestamp="1584188928442" />
+    <state width="902" height="324" key="GridCell.Tab.1.left" timestamp="1584188928442">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="902" height="324" key="GridCell.Tab.1.left/0.0.1920.1030@0.0.1920.1030" timestamp="1584188928442" />
+    <state width="902" height="324" key="GridCell.Tab.1.right" timestamp="1584188928442">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="902" height="324" key="GridCell.Tab.1.right/0.0.1920.1030@0.0.1920.1030" timestamp="1584188928442" />
+    <state x="557" y="74" key="SettingsEditor" timestamp="1583865891631">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583775678203" />
+    <state x="557" y="74" key="SettingsEditor/0.0.1920.1030@0.0.1920.1030" timestamp="1583865891631" />
+    <state x="588" y="295" key="com.intellij.ide.util.TipDialog" timestamp="1584187841018">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583776011597" />
+    <state x="588" y="295" key="com.intellij.ide.util.TipDialog/0.0.1920.1030@0.0.1920.1030" timestamp="1584187841018" />
+    <state x="588" y="298" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583775825498" />
+    <state x="588" y="309" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1583945249985" />
+    <state x="1013" y="86" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584134489724">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="1013" y="86" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1030@0.0.1920.1030" timestamp="1584134489724" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/project_1$testPy.coverage" NAME="testPy Coverage Results" MODIFIED="1584188907529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
