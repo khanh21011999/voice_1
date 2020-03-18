@@ -2,12 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97e390ec-80fe-42ee-aa75-73548a5dc21e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first.py" beforeDir="false" afterPath="$PROJECT_DIR$/first.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news.txt" beforeDir="false" afterPath="$PROJECT_DIR$/news.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chuck0.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chuck1.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chuck2.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/gocnhin/chuck0.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/gocnhin/chuck1.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/gocnhin/chuck2.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/gocnhin/gocnhin_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/chuck0.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new1.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_record.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noteBook.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/record.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recordtest.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tbn.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.wav" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/testPy.py" beforeDir="false" afterPath="$PROJECT_DIR$/testPy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vit.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeunuoc.wav" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,11 +42,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="24cebd84-1f96-4d6a-a0b1-1514f89a90a7">
-    <option name="files">
-      <option value="noteBook.ipynb" />
-    </option>
-  </component>
+  <component name="JupyterTrust" id="24cebd84-1f96-4d6a-a0b1-1514f89a90a7" />
   <component name="ProjectId" id="1YtvVpJ2kYiRc2FaTCyjxUP85UU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -38,6 +51,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -57,7 +71,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.testPy">
+  <component name="RunManager" selected="Python.testPy (1)">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="project_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,10 +113,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="testPy (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/thoi_su" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/thoi_su/testPy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="testPy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="project_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -120,8 +156,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.testPy" />
+        <item itemvalue="Python.testPy (1)" />
         <item itemvalue="Python.first" />
+        <item itemvalue="Python.testPy" />
       </list>
     </recent_temporary>
   </component>
@@ -155,6 +192,15 @@
       <workItem from="1584187836258" duration="5695000" />
       <workItem from="1584239559809" duration="75000" />
       <workItem from="1584239645491" duration="3466000" />
+      <workItem from="1584343569259" duration="1581000" />
+      <workItem from="1584367202648" duration="2756000" />
+      <workItem from="1584377209081" duration="3229000" />
+      <workItem from="1584397346262" duration="677000" />
+      <workItem from="1584454165332" duration="3176000" />
+      <workItem from="1584459205198" duration="965000" />
+      <workItem from="1584460206602" duration="545000" />
+      <workItem from="1584491632788" duration="2959000" />
+      <workItem from="1584532068943" duration="2735000" />
     </task>
     <servers />
   </component>
@@ -223,10 +269,10 @@
     <state x="588" y="295" key="com.intellij.ide.util.TipDialog/0.0.1920.1030@0.0.1920.1030" timestamp="1584187841018" />
     <state x="588" y="298" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583775825498" />
     <state x="588" y="309" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1583945249985" />
-    <state x="1013" y="86" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584134489724">
+    <state x="1013" y="86" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584495017827">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state x="1013" y="86" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1030@0.0.1920.1030" timestamp="1584134489724" />
+    <state x="1013" y="86" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1030@0.0.1920.1030" timestamp="1584495017827" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/project_1$testPy.coverage" NAME="testPy Coverage Results" MODIFIED="1584188907529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

@@ -1,18 +1,21 @@
 from pydub import AudioSegment
 from pydub.silence import split_on_silence
 import speech_recognition as sr
-import os
-import wavio
-
-sound = AudioSegment.from_wav('tbn.wav')
 r = sr.Recognizer()
-
+r.pause_threshold=5
+with sr.Microphone() as source:
+    print("taliking after 2 second(stop talking for 5 sec to stop and save)")
+    audio=r.listen(source,timeout=2)
+    print(r.recognize_google(audio,language='vi-VN'))
+with open("test1.wav","wb") as f:
+    f.write(audio.get_wav_data())
+sound = AudioSegment.from_wav('test1.wav')
 chucks = split_on_silence(sound,
-                          min_silence_len=400,
-                          silence_thresh=-40)
+                          min_silence_len=500,
+                          silence_thresh=-45)
 print(sound.dBFS)
 for i, chuck in enumerate(chucks):
-    out_file = "D:\python_project\XLTN\project_1\data\gocnhin\chuck{0}.wav".format(i)
+    out_file = "D:\python_project\XLTN\project_1\\thoi_su\chuck{0}.wav".format(i)
     chuck.export(out_file, bitrate='192k', format="wav")
     filename = 'chuck' + str(i) + '.wav'
     file=filename
