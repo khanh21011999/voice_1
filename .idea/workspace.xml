@@ -3,28 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="97e390ec-80fe-42ee-aa75-73548a5dc21e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chuck0.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chuck1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chuck2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/gocnhin/chuck0.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/gocnhin/chuck1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/gocnhin/chuck2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/gocnhin/gocnhin_1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/test/chuck0.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_record.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noteBook.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/record.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recordtest.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tbn.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.wav" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/testPy.py" beforeDir="false" afterPath="$PROJECT_DIR$/testPy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vit.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeunuoc.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thoi_su/c.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thoi_su/chuck0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/thoi_su/chuck0.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thoi_su/chuck1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/thoi_su/chuck1.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thoi_su/chuck2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/thoi_su/chuck2.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thoi_su/chuck3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/thoi_su/chuck3.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thoi_su/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thoi_su/test1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/thoi_su/test1.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thoi_su/thoisu4tj0w2db.wav" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +85,9 @@
       <module name="project_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -157,8 +147,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.testPy (1)" />
-        <item itemvalue="Python.first" />
         <item itemvalue="Python.testPy" />
+        <item itemvalue="Python.first" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +190,12 @@
       <workItem from="1584459205198" duration="965000" />
       <workItem from="1584460206602" duration="545000" />
       <workItem from="1584491632788" duration="2959000" />
-      <workItem from="1584532068943" duration="2735000" />
+      <workItem from="1584532068943" duration="2994000" />
+      <workItem from="1584568449697" duration="3525000" />
+      <workItem from="1584591039078" duration="165000" />
+      <workItem from="1584591216493" duration="3072000" />
+      <workItem from="1584621585017" duration="5970000" />
+      <workItem from="1584634032517" duration="6416000" />
     </task>
     <servers />
   </component>
@@ -217,46 +212,46 @@
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
     <state x="410" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1030@0.0.1920.1030" timestamp="1584133757309" />
-    <state x="665" y="305" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584247189748">
+    <state x="665" y="305" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584644966511">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state x="665" y="305" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1030@0.0.1920.1030" timestamp="1584247189748" />
+    <state x="665" y="305" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1030@0.0.1920.1030" timestamp="1584644966511" />
     <state x="686" y="213" key="FileChooserDialogImpl" timestamp="1583864989512">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
     <state x="686" y="213" key="FileChooserDialogImpl/0.0.1920.1030@0.0.1920.1030" timestamp="1583864989512" />
-    <state width="902" height="324" key="GridCell.Tab.0.bottom" timestamp="1584188928442">
+    <state width="902" height="324" key="GridCell.Tab.0.bottom" timestamp="1584571984951">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="902" height="324" key="GridCell.Tab.0.bottom/0.0.1920.1030@0.0.1920.1030" timestamp="1584188928442" />
-    <state width="902" height="324" key="GridCell.Tab.0.center" timestamp="1584188928442">
+    <state width="902" height="324" key="GridCell.Tab.0.bottom/0.0.1920.1030@0.0.1920.1030" timestamp="1584571984951" />
+    <state width="902" height="324" key="GridCell.Tab.0.center" timestamp="1584571984951">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="902" height="324" key="GridCell.Tab.0.center/0.0.1920.1030@0.0.1920.1030" timestamp="1584188928442" />
-    <state width="902" height="324" key="GridCell.Tab.0.left" timestamp="1584188928442">
+    <state width="902" height="324" key="GridCell.Tab.0.center/0.0.1920.1030@0.0.1920.1030" timestamp="1584571984951" />
+    <state width="902" height="324" key="GridCell.Tab.0.left" timestamp="1584571984951">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="902" height="324" key="GridCell.Tab.0.left/0.0.1920.1030@0.0.1920.1030" timestamp="1584188928442" />
-    <state width="902" height="324" key="GridCell.Tab.0.right" timestamp="1584188928442">
+    <state width="902" height="324" key="GridCell.Tab.0.left/0.0.1920.1030@0.0.1920.1030" timestamp="1584571984951" />
+    <state width="902" height="324" key="GridCell.Tab.0.right" timestamp="1584571984951">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="902" height="324" key="GridCell.Tab.0.right/0.0.1920.1030@0.0.1920.1030" timestamp="1584188928442" />
-    <state width="902" height="324" key="GridCell.Tab.1.bottom" timestamp="1584188928442">
+    <state width="902" height="324" key="GridCell.Tab.0.right/0.0.1920.1030@0.0.1920.1030" timestamp="1584571984951" />
+    <state width="902" height="324" key="GridCell.Tab.1.bottom" timestamp="1584571984951">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="902" height="324" key="GridCell.Tab.1.bottom/0.0.1920.1030@0.0.1920.1030" timestamp="1584188928442" />
-    <state width="902" height="324" key="GridCell.Tab.1.center" timestamp="1584188928442">
+    <state width="902" height="324" key="GridCell.Tab.1.bottom/0.0.1920.1030@0.0.1920.1030" timestamp="1584571984951" />
+    <state width="902" height="324" key="GridCell.Tab.1.center" timestamp="1584571984951">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="902" height="324" key="GridCell.Tab.1.center/0.0.1920.1030@0.0.1920.1030" timestamp="1584188928442" />
-    <state width="902" height="324" key="GridCell.Tab.1.left" timestamp="1584188928442">
+    <state width="902" height="324" key="GridCell.Tab.1.center/0.0.1920.1030@0.0.1920.1030" timestamp="1584571984951" />
+    <state width="902" height="324" key="GridCell.Tab.1.left" timestamp="1584571984951">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="902" height="324" key="GridCell.Tab.1.left/0.0.1920.1030@0.0.1920.1030" timestamp="1584188928442" />
-    <state width="902" height="324" key="GridCell.Tab.1.right" timestamp="1584188928442">
+    <state width="902" height="324" key="GridCell.Tab.1.left/0.0.1920.1030@0.0.1920.1030" timestamp="1584571984951" />
+    <state width="902" height="324" key="GridCell.Tab.1.right" timestamp="1584571984951">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="902" height="324" key="GridCell.Tab.1.right/0.0.1920.1030@0.0.1920.1030" timestamp="1584188928442" />
+    <state width="902" height="324" key="GridCell.Tab.1.right/0.0.1920.1030@0.0.1920.1030" timestamp="1584571984951" />
     <state x="557" y="74" key="SettingsEditor" timestamp="1584240760275">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
@@ -275,6 +270,6 @@
     <state x="1013" y="86" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1030@0.0.1920.1030" timestamp="1584495017827" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/project_1$testPy.coverage" NAME="testPy Coverage Results" MODIFIED="1584188907529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/project_1$testPy.coverage" NAME="testPy Coverage Results" MODIFIED="1584571035644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

@@ -9,10 +9,14 @@ with sr.Microphone() as source:
     print(r.recognize_google(audio,language='vi-VN'))
 with open("test1.wav","wb") as f:
     f.write(audio.get_wav_data())
-sound = AudioSegment.from_wav('test1.wav')
+sound = AudioSegment.from_wav('./thoi_su//test1.wav')
 chucks = split_on_silence(sound,
                           min_silence_len=500,
-                          silence_thresh=-45)
+                          silence_thresh=-28,
+                          keep_silence=10,
+
+                          )
+
 print(sound.dBFS)
 for i, chuck in enumerate(chucks):
     out_file = "D:\python_project\XLTN\project_1\\thoi_su\chuck{0}.wav".format(i)
