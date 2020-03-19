@@ -3,15 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="97e390ec-80fe-42ee-aa75-73548a5dc21e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testPy.py" beforeDir="false" afterPath="$PROJECT_DIR$/testPy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thoi_su/c.wav" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/thoi_su/chuck0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/thoi_su/chuck0.wav" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/thoi_su/chuck1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/thoi_su/chuck1.wav" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/thoi_su/chuck2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/thoi_su/chuck2.wav" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/thoi_su/chuck3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/thoi_su/chuck3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thoi_su/test.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/thoi_su/test1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/thoi_su/test1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thoi_su/thoisu4tj0w2db.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thoi_su/testPy.py" beforeDir="false" afterPath="$PROJECT_DIR$/thoi_su/testPy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thoi_su/thoisu.txt" beforeDir="false" afterPath="$PROJECT_DIR$/thoi_su/thoisu.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,7 +193,7 @@
       <workItem from="1584591039078" duration="165000" />
       <workItem from="1584591216493" duration="3072000" />
       <workItem from="1584621585017" duration="5970000" />
-      <workItem from="1584634032517" duration="6416000" />
+      <workItem from="1584634032517" duration="7609000" />
     </task>
     <servers />
   </component>

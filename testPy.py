@@ -1,23 +1,33 @@
 from pydub import AudioSegment
 from pydub.silence import split_on_silence
+from pydub.silence import detect_nonsilent
 import speech_recognition as sr
+
 r = sr.Recognizer()
-r.pause_threshold=5
+r.pause_threshold = 3
 with sr.Microphone() as source:
-    print("taliking after 2 second(stop talking for 5 sec to stop and save)")
-    audio=r.listen(source,timeout=2)
-    print(r.recognize_google(audio,language='vi-VN'))
+    try:
+      print("taliking after 2 second")
+      audio=r.listen(source,timeout=2)
+      print(r.recognize_google(audio,language='vi-VN'))
+    except sr.WaitTimeoutError:
+        print("waitError")
 with open("test1.wav","wb") as f:
     f.write(audio.get_wav_data())
-sound = AudioSegment.from_wav('./thoi_su//test1.wav')
+
+sound = AudioSegment.from_wav('test1.wav')
 chucks = split_on_silence(sound,
-                          min_silence_len=500,
-                          silence_thresh=-28,
-                          keep_silence=10,
+                          min_silence_len=1000,
+                          silence_thresh=-40,
+                          keep_silence=0,
+                          seek_step=1)
+##print(sound.dBFS)
+##print(detect_nonsilent(sound, 1000, -40, 1))
 
-                          )
+with open('thoisu.txt','a',encoding='utf-8') as file:
+    file.write('https://vnexpress.net/thoi-su/nhan-tin-ung-ho-chong-covid-19-4071946.html'+'\n')
 
-print(sound.dBFS)
+
 for i, chuck in enumerate(chucks):
     out_file = "D:\python_project\XLTN\project_1\\thoi_su\chuck{0}.wav".format(i)
     chuck.export(out_file, bitrate='192k', format="wav")
@@ -27,7 +37,7 @@ for i, chuck in enumerate(chucks):
         audio=r.listen(source)
     try:
         rec=r.recognize_google(audio,language='vi-VN')
-        with open('test.txt','a',encoding='utf=8') as the_file:
+        with open('thoisu.txt','a',encoding='utf=8') as the_file:
 
             the_file.write(filename+'\n'+rec+'\n')
     except sr.UnknownValueError:
