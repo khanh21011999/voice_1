@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97e390ec-80fe-42ee-aa75-73548a5dc21e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testPy.py" beforeDir="false" afterPath="$PROJECT_DIR$/testPy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thegioi.txt" beforeDir="false" afterPath="$PROJECT_DIR$/thegioi.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +52,25 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.testPy">
+    <configuration name="TEST2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TEST2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="project_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,6 +181,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.testPy" />
+        <item itemvalue="Python.TEST2" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.testPy (1)" />
         <item itemvalue="Python.first" />
@@ -214,7 +236,7 @@
       <workItem from="1585108972773" duration="321000" />
       <workItem from="1585109462365" duration="151000" />
       <workItem from="1585109623453" duration="632000" />
-      <workItem from="1585110480199" duration="7247000" />
+      <workItem from="1585110480199" duration="13561000" />
     </task>
     <servers />
   </component>
