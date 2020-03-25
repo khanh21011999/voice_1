@@ -4,17 +4,15 @@ from pydub.silence import detect_nonsilent
 import speech_recognition as sr
 
 r = sr.Recognizer()
-r.pause_threshold = 5
-'''
+r.pause_threshold = 5 ## thời gian tối đa để dừng
 with sr.Microphone() as source:
     try:
       print("Maximum wait is 2 second")
-      audio=r.listen(source,timeout=2)
+      audio=r.listen(source,timeout=2)  ##timeout thời gian đợi bắt đầu nói tối đa
     except sr.WaitTimeoutError:
         print("waitError")
 with open("test1.wav","wb") as f:
     f.write(audio.get_wav_data())
-'''
 sound = AudioSegment.from_file('thegioi.wav',format="wav")
 chucks = split_on_silence(sound,
                           min_silence_len=1000,
